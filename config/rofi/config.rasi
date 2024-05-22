@@ -1,0 +1,6 @@
+@theme "/home/dark/.local/share/rofi/themes/squared-everforest.rasi"
+configuration {
+font: "Fira Mono Nerd Font 12";
+show-icons : true;
+icon-theme : "Papirus";
+}
