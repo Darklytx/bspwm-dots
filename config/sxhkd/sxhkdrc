@@ -8,7 +8,7 @@ super + Return
 
 # floating terminal emulator
 super + shift + Return
-        bspc rule -a \* -o state=floating && kitty
+        bspc rule -a \* -o state=floating && alacritty -e fish
 
 # program launcher
 super + @space
