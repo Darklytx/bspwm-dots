@@ -1,0 +1,45 @@
+[colors.bright]
+black = "#4d5960"
+blue = "#7fbbb3"
+cyan = "#83c092"
+green = "#a7c080"
+magenta = "#d699b6"
+red = "#e67e80"
+white = "#d3c6aa"
+yellow = "#dbbc7f"
+
+[colors.normal]
+black = "#4d5960"
+blue = "#7fbbb3"
+cyan = "#83c092"
+green = "#a7c080"
+magenta = "#d699b6"
+red = "#e67e80"
+white = "#d3c6aa"
+yellow = "#dbbc7f"
+
+[colors.primary]
+background = "#333c43"
+foreground = "#d3c6aa"
+
+[font]
+size = 15.0
+
+[font.bold]
+family = "FiraMono Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "FiraMono Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "FiraMono Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "FiraMono Nerd Font"
+style = "Regular"
+
+[window]
+opacity = 0.8
